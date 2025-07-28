@@ -1,8 +1,8 @@
 {
   "name": "beachday",
   "displayName": "Beach Day",
-  "description": "A beach-inspired VS Code theme, like coding on the beach but without getting sand in your MacBook",
-  "version": "0.0.1",
+  "description": "A beach-inspired VS Code theme, like coding on the beach but without getting sand in your Macook",
+  "version": "0.0.2",
   "icon": "icon.png",
   "author": {
     "name": "Avital Tamir",
