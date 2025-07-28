@@ -13,7 +13,7 @@ A beach-inspired VS Code theme, like coding on the beach but without getting san
 
 ## 📸 Preview
 
-<img width="1456" height="908" alt="Screenshot 2025-07-28 at 16 40 57" src="https://github.com/user-attachments/assets/0528e58d-e5dc-459e-9936-55f3fa2940f2" />
+<img alt="Preview" src="https://github.com/user-attachments/assets/0528e58d-e5dc-459e-9936-55f3fa2940f2" />
 
 ## 🚀 Installation
 
