@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Jul 28, 2025 at 04_29_13 PM" src="https://github.com/user-attachments/assets/156c98e1-935a-4548-92a1-c1e874e80fd5" />
+
 # 🏖️ Beach Day
 
 A beach-inspired VS Code theme, like coding on the beach but without getting sand in your MacBook.
